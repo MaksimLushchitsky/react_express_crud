@@ -1,0 +1,21 @@
+.wrapper button{
+  margin-left: 20px;
+}
+
+.wrapper{
+  border: 1px solid black;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+form button{
+  margin: 20px;
+}
+
+table{
+  text-align: center;
+}
+
+.wrapper table td{
+  padding: 10px;
+}
